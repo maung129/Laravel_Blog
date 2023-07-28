@@ -12,7 +12,7 @@
         <tbody>
           @foreach ($blogs as $blog)
           <tr>
-            <th scope="row">1</th>
+            <th scope="row">{{$blog->id}}</th>
             <td>{{ $blog->title }}</td>
             <td>{{ $blog->intro }}</td>
             <td>{{ $blog->created_at->format('D-M-Y') }}</td>
