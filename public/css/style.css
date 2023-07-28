@@ -1,0 +1,16 @@
+body{
+    max-width: 600px;
+    margin: auto;
+    background-color: darkgrey;
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    color:black;
+}
+
+.even{
+    background-color: black;
+    color: white;
+}
