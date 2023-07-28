@@ -1,5 +1,5 @@
-<div class="bg-dark text-white p-5">
-    <footer class="py-3">
+<div class="bg-dark text-white p-3" style="height:150px">
+    <footer class="py-2">
       <ul class="nav justify-content-center">
         <li class="nav-item">
           <a href="#home" class="nav-link px-2">Home</a>
